@@ -1,0 +1,7 @@
+# menu presnete em todas as páginas COM responsividade
+
+ # e organizar imagens css e javascript em pastas de acordo com o enunciado
+ responsividade
+ 
+ #ter uma página de sobre
+ carrocel de imagens 
