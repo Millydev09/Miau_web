@@ -2,11 +2,9 @@
  body {
   margin: 0;
   font-family:cursive;
-
+  
 }
-  .index {
-     align-items: center;
-  }
+
 
 .topnav {
   overflow: hidden;
@@ -29,7 +27,7 @@
 }
 
 .topnav a.active {
-  background-color: #0a7fb4;
+  background-color: #38998f;
   color: white;
 }
 
